@@ -55,3 +55,21 @@ Parameters → variables defined in a function/method signature (like placeholde
 
 Arguments → actual values you pass to the function when calling it.
 <hr>
+write method definition in first line of method - it contains the information such as what it does .
+
+program starts with main function.
+<hr>
+
+# method types
+
+=> without parameters and without any return type
+=> with parameters and without return types
+=> with parameter and with return type
+=> without parameter and with return type
+
+<hr>
+
+while calling an method in static method we have to create the object of the class and then call the class using object.
+new → allocates memory for a fresh object.
+
+<hr>
